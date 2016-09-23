@@ -1,0 +1,2 @@
+loadconstants;
+strongFieldAnalysis(25);
